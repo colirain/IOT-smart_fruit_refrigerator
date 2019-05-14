@@ -6,6 +6,8 @@ android: andriod app, to interact with end users
 
 classifcation_alert: program to do classification and alert users 
 
-models: machine learning model to do fruit classification \\
-raspberrryPi: get the weight and take picture of the fruit, and upload the information to database \\
+models: machine learning model to do fruit classification
+
+raspberrryPi: get the weight and take picture of the fruit, and upload the information to database
+
 server: andriod app server
